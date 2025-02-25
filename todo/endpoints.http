@@ -1,0 +1,3 @@
+@baseUrl = https://automatic-disco-59p9j5wrq9gfv657-5000.app.github.dev/
+### Health
+GET {{baseUrl}}/api/v1/health
